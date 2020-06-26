@@ -6,7 +6,7 @@ It has focused demonstrations of vertical deep learning workflows.
 
 All of the examples in this repo are written as Jupyter notebooks and can be run in one click in Google Colab, a hosted notebook environment that requires no setup and runs in the cloud. Google Colab includes GPU and TPU runtimes.
 
- -[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
+ - [Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
 ```
  -Image classification from scratch
  -Simple MNIST convnet
